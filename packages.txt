@@ -123,6 +123,8 @@ termux-services
 termux-tools
 termux-x11-nightly
 tree
+ttf-jetbrains-mono
+ttf-nerd-fonts-symbols
 tur-repo
 unzip
 upower
@@ -133,7 +135,9 @@ which
 wlr-randr
 x11-repo
 xfce4
+xorg-font-util
 xorg-xev
+xorg-xlsfonts
 xorgproto
 xxhash
 xz-utils
