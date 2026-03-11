@@ -84,6 +84,7 @@ openssl
 patch
 patchelf
 pcre2
+picom
 pipewire
 procps
 psmisc
