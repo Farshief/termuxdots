@@ -25,6 +25,9 @@ gaps inner 5
 gaps outer 10
 smart_gaps off
 
+# Set X background
+exec --no-startup-id feh --bg-scale ~/Desktop/cyberpunk-anime-girl-and-cyberpunk-city-vk-2048x1152.jpg
+
 # Autostart Picom as daemon
 exec --no-startup-id picom -b
 
