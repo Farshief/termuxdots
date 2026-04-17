@@ -4,6 +4,7 @@ bash
 build-essential
 bzip2
 ca-certificates
+clang
 cmake
 command-not-found
 coreutils
@@ -16,11 +17,11 @@ dos2unix
 dpkg
 ed
 feh
+file-roller
 findutils
 firefox
 fmt
 gawk
-gcc-default
 git
 glmark2
 golang
@@ -42,6 +43,7 @@ libassuan
 libbz2
 libc++
 libcap-ng
+libcrypt
 libcurl
 libevdev
 libevent
@@ -52,6 +54,7 @@ libgnutls
 libgpg-error
 libiconv
 libidn2
+libjpeg-turbo
 liblz4
 liblzma
 libmd
@@ -78,6 +81,7 @@ mesa-demos
 mesa-vulkan-icd-freedreno
 nano
 ncurses
+ndk-sysroot
 neovim
 net-tools
 ninja
@@ -91,6 +95,7 @@ pipewire
 procps
 psmisc
 pulseaudio
+python
 qt6-qttranslations
 rclone
 readline
@@ -99,6 +104,7 @@ root-repo
 ruby
 rust
 sed
+sqlite
 starship
 subversion
 swaybg
